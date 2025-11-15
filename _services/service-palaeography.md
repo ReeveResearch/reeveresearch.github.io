@@ -1,7 +1,4 @@
 ---
-layout: single
-author_profile: true
-permalink: /palaeography/
 title: "Palaeography & Transcription"
 excerpt: "We have extensive experience in transcribing a range of documents and would be happy to help"
 ---

@@ -1,7 +1,4 @@
 ---
-layout: single
-author_profile: true
-permalink: /archives/
 title: "Archive look-up"
 excerpt: "Based in Yorkshire, we are able to view and photograph your documents on your behalf."
 ---

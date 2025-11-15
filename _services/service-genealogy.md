@@ -1,7 +1,4 @@
 ---
-layout: single
-author_profile: true
-permalink: /genealogy/
 title: "Genealogy & family tree"
 excerpt: "Dr Hannah Reeve is a social-economic historian who specialises in early modern parish life."
 ---

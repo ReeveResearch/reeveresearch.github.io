@@ -2,10 +2,10 @@
 title: "Palaeography & Transcription"
 excerpt: "Need help deciphering old handwriting?"
 header:
-  teaser: /assets/images/indenture-header.jpg
+  teaser: /assets/images/palaeography.jpg
 ---
 
-We have extensive experience in transcribing a range of documents and would be
+I have extensive experience in transcribing a range of documents and would be
 happy to help.
 
 Typical documents transcribed include:
@@ -21,5 +21,5 @@ Typical documents transcribed include:
   - Letters
 
 Simply send your document to
-[reeveresearch1@gmail.com](mailto:reeveresearch1@gmail.com) and we will get
-back to you with an estimate (quotes vary depending on length and difficulty).
+[reeveresearch1@gmail.com](mailto:reeveresearch1@gmail.com) and I will get
+back to you with an estimate (quotes vary depending on length and difficulty and are charged at an hourly rate).

@@ -17,10 +17,6 @@ Her guilty-pleasure is reading old court records to uncover the weird and
 wonder that characterised living in the past – so much so she has written about
 it as a guest blogger [here](https://manyheadedmonster.com/2021/06/01/understanding-sources-six-reasons-to-explore-the-cause-papers/).
 
-Hannah also loves retracing the steps of ancestors
-– both metaphorically and literally – and she can be found writing about her
-experiences doing just that:
-
 With her extensive archival and research experience, she is looking forward to
 hearing about your project and how she can help you! Get in touch via
 [reeveresearch1@gmail.com](mailto:reeveresearch1@gmail.com)

@@ -318,12 +318,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
   - scope:
       path: ""
       type: services

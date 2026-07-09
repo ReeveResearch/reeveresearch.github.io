@@ -16,7 +16,7 @@ and likes nothing more than wading through parish records and transcribing
 tricky documents.
 
 Her guilty-pleasure is reading old court records to uncover the weird and
-wonder that characterised living in the past-–-so much so she has written about
+wonder that characterised living in the past---so much so she has written about
 it as a guest blogger
 [here](https://manyheadedmonster.com/2021/06/01/understanding-sources-six-reasons-to-explore-the-cause-papers/).
 

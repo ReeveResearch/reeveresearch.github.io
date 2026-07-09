@@ -1,5 +1,5 @@
 ---
-title:  "The Transcript Trap"
+title:  "Are transcripts the real cause of your brick walls?"
 excerpt: "In an age where more and more records are being added to FindMyPast and Ancestry, it might be tempting to think there's little or no point in viewing the originals..."
 layout: single
 ---
@@ -35,13 +35,7 @@ which might otherwise go undetected. Each marital bann had to be read in front
 of two witnesses, usually a relative or friend, to announce a couples'
 intention to marry. These names can provide important clues to branch out your
 tree, and it can turn the genealogical pursuit on its head trying to work out
-how they fit into the picture. Alternatively, marital banns can offer clues
-about the socio-economic status of the family as it was custom for both the
-bride and groom to write their names. It was not uncommon, however, for one or
-both of the bridal party to leave a mark, usually a cross, indicating that they
-were unable to read or write. Whilst low levels of literacy alone can't be used
-to gauge prosperity levels, it does give a give a crude indication as to the
-type of “sort” your ancestor may have belonged to.
+how they fit into the picture.
 
 But perhaps the most important reason for viewing the original is that online
 transcriptions can not only be misleading, but also **completely wrong**. Take,

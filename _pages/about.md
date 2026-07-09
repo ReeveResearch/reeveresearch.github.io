@@ -16,13 +16,12 @@ and likes nothing more than wading through parish records and transcribing
 tricky documents.
 
 Her guilty-pleasure is reading old court records to uncover the weird and
-wonder that characterised living in the past---so much so she has written about
+wonderful that characterised living in the past---so much so she has written about
 it as a guest blogger
 [here](https://manyheadedmonster.com/2021/06/01/understanding-sources-six-reasons-to-explore-the-cause-papers/).
 
-When she doesn't have her head in the court records, she likes nothing more
-than picking up the paper-trail of dissenting ancestors, with a particular
-specialism in [Quaker
+When she doesn't have her head in the court records, she is busy picking up the
+paper-trail of dissenting ancestors, with a particular specialism in [Quaker
 roots](https://quakerstudies.openlibhums.org/article/15683/galley/31855/view/).
 
 Hannah also loves retracing the steps of ancestors---both metaphorically and

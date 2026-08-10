@@ -67,7 +67,7 @@ follows:
 
 But here's what it actually says:
 
-> "Md the ffeoffees of the Almeshouse of ye foundac[i]on of Mr Willesby in considerac[i]on"
+> "Md ye ffeoffees of the Almeshouse of ye foundac[i]on of Mr Willesby in considerac[i]on"
 
 Not a single word is correct, unless we're counting "the" at the start of the
 sentence (although it did ignore md---an abbreviation of memorandum). The rest

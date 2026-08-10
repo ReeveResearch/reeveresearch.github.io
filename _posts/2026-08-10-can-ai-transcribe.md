@@ -1,6 +1,6 @@
 ---
 title: "Can AI transcribe 17th century documents?"
-excerpt: "Generative AI assistants are everywhere, and it seems like they're here to stay. You know the ones—ChatGPT, CoPilot, Claude and Gemini. AI assistants have also been carving a space for themselves in the world of genealogy for some time now and have—apparently—\"fundamentally transformed\" the way family history is being done."
+excerpt: "Generative AI assistants are everywhere, and it seems like they're here to stay. You know the ones—ChatGPT, CoPilot, Claude and Gemini..."
 layout: single
 ---
 

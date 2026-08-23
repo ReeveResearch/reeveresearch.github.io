@@ -1,6 +1,6 @@
 ---
 title: "Naming trends in the 17th Century"
-excerpt: "If you were about to become a parent in the seventeenth century, what would you be naming your child and how does this compare to today? To answer these questions, I have analysed all the names used in a small community in North Yorkshire..."
+excerpt: "One of the best parts about working with parish registers is that I get to see the full range of names used by parents when baptising their children..."
 layout: single
 ---
 

@@ -20,6 +20,6 @@ Typical documents transcribed include:
 
   - Letters
 
-Simply send your document to
-[reeveresearch1@gmail.com](mailto:reeveresearch1@gmail.com) and I will get
-back to you with an estimate (quotes vary depending on length and difficulty and are charged at an hourly rate).
+Prices for transcription are hourly rated and further details can be
+[here]({% link _pages/prices.md %}). Simply get in touch via email with details
+of you project and I will get back to you with a quote.

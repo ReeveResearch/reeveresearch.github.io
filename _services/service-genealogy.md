@@ -7,11 +7,13 @@ header:
 
 I specialise in tracing ancestors all over the UK using a range of records. I
 can start entirely from scratch or focus on a small sub-section of your tree:
-it is up to you!
+it is up to you! Prices for family tree packages can be found [here]({% link
+_pages/family_tree_packages.md %}).
 
-Or, have you got so far back and are struggling to make progress? I am a professional socio-economic historian who specialises in early modern research, and I
-would love to find your elusive ancestors in the parish records.
+Or, have you got so far back and are struggling to make progress? I am a
+professional socio-economic historian who specialises in early modern research,
+and I would love to find your elusive ancestors in the parish records.
 
-Price is entirely project dependent, so get in touch via
-[reeveresearch1@gmail.com](mailto:reeveresearch1@gmail.com) to see how
-I can help.
+Prices for custom projects are hourly rated and further details can be
+[here]({% link _pages/prices.md %}). Simply get in touch via email with details
+of you project and I will get back to you with a quote.
